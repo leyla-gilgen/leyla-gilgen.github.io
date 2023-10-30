@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leyla Gilgen - Welcome"
+title                    : "Leyla Gilgen"
 title_separator          : "-"
 name                     : &name "Leyla Gilgen"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Leyla Gilgen"
   avatar           : "Foto_Leyla_Website.jpg"
-  bio              : "PhD Candidate in Labor Economics"
+  bio              : "PhD Candidate in Economics"
   location         : "University of Bern"
   employer         :
   pubmed           : 
