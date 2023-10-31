@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Working Papers
+
 ### [Product Market Concentration, Wage Inequality and Worker Sorting](https://github.com/leyla-gilgen/leyla-gilgen.github.io/blob/master/files/Concentration_France.pdf) (with [Matias Cortes](https://sites.google.com/site/gmatiascortes/) and [Jeanne Tschopp](https://jtschopp.com))
 <blockquote>
   <p>
