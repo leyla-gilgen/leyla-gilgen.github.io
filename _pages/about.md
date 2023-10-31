@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate in Labor Economics at the [Department of Economics](https://www.vwi.unibe.ch/index_eng.html) at the University of Bern. 
+I'm a PhD Candidate in economics at the [Department of Economics](https://www.vwi.unibe.ch/index_eng.html) at the University of Bern. 
 
-Research interests: Concentration, Wage Inequality, Monopsony
+My research interests are in the field of Applied Microeconomics. My primary research field is Labor Economics where I focus on concentration, wage inequality and monopsony power of firms. 
