@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## University of Bern
+### University of Bern
 
   * Labor Economics  (Master)
       * Fall 2020, 2021, 2022, 2023
