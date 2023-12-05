@@ -12,4 +12,4 @@ author_profile: true
       * Fall 2020, 2021, 2022, 2023
 
   * Essential Mathematics for Economists (Bachelor)
-      * Spring 2021, 2022, 2023
+      * Spring 2021, 2022, 2023, 2024
