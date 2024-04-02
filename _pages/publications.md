@@ -17,4 +17,4 @@ Product markets have become increasingly dominated by a smaller number of firms 
 ## Work in Progress
 
 ### Monopoly or Monopsony? Labor Market Effects of Mergers and Acquisitions
-Labor market effects of mergers and acquisitions (M&As) have become a widely discussed issue both among academics and policymakers. In this paper, I show the effects of mergers and acquisitions on labor market outcomes over the period 2009 - 2021 in France. I estimate an event study framework using matched employer-employee data combined with firm balance sheet data covering the near-universe of French workers and firms. I find that after an M&A event, sales and employment within M&A firms increase which is partly driven by a higher share of workers in abstract occupations. I do not find any effects on wages except for a positive and significant increase one year after an M&A event.
+
