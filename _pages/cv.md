@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-### You can download my CV [here](https://github.com/leyla-gilgen/leyla-gilgen.github.io/blob/master/files/CV_Gilgen_academic.pdf).
+### You can download my CV [here](https://leyla-gilgen.github.io/files/CV_Gilgen_academic.pdf).
