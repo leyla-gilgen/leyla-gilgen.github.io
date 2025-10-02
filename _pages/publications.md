@@ -14,16 +14,14 @@ Product markets have become increasingly dominated by a smaller number of firms 
   </p>
 </blockquote>
 
-## Work in Progress
-
-### Monopoly or Monopsony? Labor Market Effects of Mergers and Acquisitions
+### Monopoly or Monopsony? Labor Market Effects of Mergers and Acquisitions 
 <blockquote>
   <p>
-Labor market effects of mergers and acquisitions (M&As) have become a widely discussed topic both among academics and policymakers. In this paper, I show the effects of mergers and acquisitions on labor market outcomes over the period 2009 - 2020 in France. I estimate an event study framework using matched employer-employee data covering the near-universe of French workers and firms. I find that after an M&A event, sales and employment within M&A firms decrease but I do not find any significant effect on wages, except for an increase in the first year after an M&A event. However, compositional changes play an important role and are driven by an increase in the share of workers in abstract occupations. Moreover, I find evidence for higher wage markdowns if both the buyer and the target firm are within the same labor market zone, suggesting that M&A events may increase the market power of firms in the labor market.
+I study the effects of mergers and acquisitions on labor market outcomes over the period 2009 - 2020 in France by estimating an event study framework using matched employer-employee data covering the near-universe of French workers and firms. After an M&A event, sales and employment within M&A firms decrease but I do not find any significant effect on wages, except for an increase in the first year after an M&A event. Compositional changes of the workforce play an important role and are driven by an increase of workers in abstract occupations. In addition, I investigate the role of market power by directly measuring markups and wage markdowns but I do not find any evidence for higher market power after an M&A event. My findings indicate that labor reallocation is the main channel through which M&A firms affect the labor market in France.
   </p>
 </blockquote>
 
-
+## Work in Progress
 ### Merger Spillovers on Competitors (with [Philipp Brunner](https://sites.google.com/view/philippbrunner/home))
 <blockquote>
   <p>
