@@ -15,6 +15,7 @@ Product markets have become increasingly dominated by a smaller number of firms 
 </blockquote>
 
 ### Monopoly or Monopsony? Labor Market Effects of Mergers and Acquisitions 
+*(draft upon request)*
 <blockquote>
   <p>
 I study the effects of mergers and acquisitions on labor market outcomes over the period 2009 - 2020 in France by estimating an event study framework using matched employer-employee data covering the near-universe of French workers and firms. After an M&A event, sales and employment within M&A firms decrease but I do not find any significant effect on wages, except for an increase in the first year after an M&A event. Compositional changes of the workforce play an important role and are driven by an increase of workers in abstract occupations. In addition, I investigate the role of market power by directly measuring markups and wage markdowns but I do not find any evidence for higher market power after an M&A event. My findings indicate that labor reallocation is the main channel through which M&A firms affect the labor market in France.
