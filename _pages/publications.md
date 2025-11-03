@@ -27,6 +27,6 @@ I study the effects of mergers and acquisitions on labor market outcomes over th
 ### Merger Spillovers on Competitors (with [Philipp Brunner](https://sites.google.com/view/philippbrunner/home))
 <blockquote>
   <p>
-
+This paper explores merger spillovers on non-merging competitors. We collect a novel database of competitors in all industries in France over the period 2010-2019, using M&A cases reviewed by the French competition authority that allows us to identify the main competitors. We combine the database with administrative firm-level balance sheet data to estimate the effect of an M&A event on firm-level outcomes. We find that after an M&A event, rival firms decrease their sales, but we do not find any significant effect on profits and markups. For a subsample of manufacturing firms, we show that the decrease in sales is accompanied by a decrease in firm-specific prices, indicating the presence of negative spillover effects from M&As on competitors.
   </p>
 </blockquote>
