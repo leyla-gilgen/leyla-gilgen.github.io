@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate in economics at the [Department of Economics](https://www.vwi.unibe.ch/index_eng.html) at the University of Bern. 
+I'm an economist working as a consultant and data analyst at [Polynomics AG](https://www.polynomics.ch/en/homepage-1.html). I received my PhD in February 2026 from the [Department of Economics](https://www.vwi.unibe.ch/index_eng.html) at the University of Bern. 
 
-My research interests are in the field of Applied Microeconomics. My primary research field is Labor Economics where I focus on concentration, wage inequality and market power of firms. I am also interested in industrial organization and competition policy.
+My research interests are in labor economics and competition policy.
+
+<!--
+My research interests are in the field of Applied Microeconomics. My primary research field is Labor Economics where I focus on concentration, wage inequality and market power of firms. I am also interested in industrial organization and competition policy.*/
+-->
+
